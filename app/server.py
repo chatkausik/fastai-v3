@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1VSXngGjqxYM1zTAghXKW6cGxgHXkDEc_'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1sezeWoJuECsi47q6zZ8V_-lodWhooVaR'
 export_file_name = 'trained_model.pkl'
 
 classes = ['man', 'woman']
